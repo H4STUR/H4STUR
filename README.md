@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Majerski</h1>
-<h3 align="center">A passionate Game and Web developer from Poland</h3>
+<h3 align="center">A passionate Game and Web developer</h3>
 <img align="right" alt="gif" width="400" src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif">
 
 - 🌱 I’m currently learning **React**
