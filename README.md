@@ -4,6 +4,10 @@
   <tr>
     <td>
       <img alt="gif" width="400" src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4stur&show_icons=true&locale=en&layout=compact" alt="h4stur" />
     </td>
   </tr>
