@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋🤓</h1>
 <h3 align="center">Passionate Game and Web developer</h3>
-<img align="right" alt="gif" width="400" src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif">
-<img align="right" alt="stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4stur&show_icons=true&locale=en&layout=compact" alt="h4stur" />
+<table align="right">
+  <tr>
+    <td>
+      <img alt="gif" width="400" src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif">
+      <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4stur&show_icons=true&locale=en&layout=compact" alt="h4stur" />
+    </td>
+  </tr>
+</table>
 
 - I’m currently learning **React Native**
 
