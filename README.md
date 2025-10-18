@@ -18,7 +18,9 @@
 - I’m looking to collaborate on **Any Unity project**
 
 - How to reach me: **majerski@agares.co.uk**
-
+  
+- Portfolio: <a href="https://portfolio.agares.co.uk/" target="_blank">**portfolio.agares.co.uk**</a>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://discordapp.com/users/danio_69" target="_blank">
