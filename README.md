@@ -70,22 +70,28 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a> 
+    <!-- jquery -->
+    <a href="https://www.jquery.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jquery" width="90" height="40"/> 
+    </a> 
+</p>
+<p align="left"> 
     <!-- MYSQL -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
-    <!-- MONGODB -->
-    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <!-- postgresql -->
+    <a href="https://www.postgresql.org.pl/" target="_blank" rel="noreferrer"> 
+        <img src="https://64.media.tumblr.com/avatar_7ddd9ad7e253_96.pnj" alt="Postgresql" width="40" height="40"/> 
+    </a>
+    
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> -->
+    </a>
 </p>
 
 <!--FRAMEWORKS-->
 <p align="left"> 
-    <!-- WORDPRESS -->
-    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="laravel" width="40" height="40"/> 
-    </a>
     <!-- LARAVEL -->
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
@@ -98,6 +104,10 @@
 
 <!--ENGINES-->
 <p align="left"> 
+    <!-- WORDPRESS -->
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="laravel" width="40" height="40"/> 
+    </a>
     <!-- UNITY -->
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
