@@ -1,135 +1,74 @@
-<h1 align="center">Hi 👋🤓</h1>
-<h3 align="center">Passionate Game and Web developer</h3>
-<table align="right">
-  <tr>
-    <td>
-      <img alt="gif" width="400" src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4stur&show_icons=true&locale=en&layout=compact" alt="h4stur" />
-    </td>
-  </tr>
-</table>
-
-- I’m currently learning **React Native**
-
-- I’m looking to collaborate on **Any Unity project**
-
-- How to reach me: **majerski@agares.co.uk**
-  
-- Portfolio: <a href="https://portfolio.agares.co.uk/" target="_blank">**portfolio.agares.co.uk**</a>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discordapp.com/users/danio_69" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danio_69" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/linkedin.com/in/lukasz-majerski" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lukasz-majerski" height="30" width="40"/>
-    </a>
+<h1 align="center">Łukasz Majerski</h1>
+<p align="center">
+  Full-Stack Developer · Laravel Specialist · Building CMS & SaaS Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-    <!--Programming-->
-<p align="left"> 
-    <!-- C -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <!-- C# -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a>
+<p align="center">
+  <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif" width="260" />
 </p>
 
-<!--WEB-->
-<p align="left"> 
-    <!-- HTML -->
-<!--     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>  -->
-    <!-- CSS -->
-<!--     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> -->
-    <!-- JS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>  
-    <!-- TS -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
-    <!-- PHP -->
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <!-- jquery -->
-    <a href="https://www.jquery.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jquery" width="90" height="40"/> 
-    </a> 
-</p>
-<p align="left"> 
-    <!-- MYSQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-  <!-- postgresql -->
-    <a href="https://www.postgresql.org.pl/" target="_blank" rel="noreferrer"> 
-        <img src="https://64.media.tumblr.com/avatar_7ddd9ad7e253_96.pnj" alt="Postgresql" width="40" height="40"/> 
-    </a>
-    
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
+<p align="center">
+  <a href="https://portfolio.agares.co.uk/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:majerski@agares.co.uk">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lukasz-majerski" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<!--FRAMEWORKS-->
-<p align="left"> 
-    <!-- LARAVEL -->
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
-    </a>
-    <!-- REACT -->
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a>
+---
+
+## Profile
+
+Full-stack developer focused on building scalable web applications, custom CMS platforms, and API-driven systems.
+
+Strong background in Laravel ecosystem, backend architecture, and performance optimization.  
+Currently expanding into mobile development and AI-driven applications.
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,vue,mysql,postgres,mongodb,docker,git" />
 </p>
 
-<!--ENGINES-->
-<p align="left"> 
-    <!-- WORDPRESS -->
-    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="laravel" width="40" height="40"/> 
-    </a>
-    <!-- UNITY -->
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-    </a> 
-    <!-- UNREAL -->
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-    </a> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,photoshop,vscode,linux" />
 </p>
 
-<!--TOOLS-->
-<p align="left">   
-    <!-- PS -->
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <!-- GIT -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <!-- DOCKER -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a>
+---
+
+## Work Focus
+
+- Custom CMS development (Laravel-based systems)
+- API architecture and integrations
+- Authentication and permission systems
+- SaaS platform development
+- Refactoring and optimizing legacy systems
+
+---
+
+## Current Direction
+
+- React Native applications  
+- Local AI / RAG systems  
+- Automation and developer tooling  
+
+---
+
+## Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h4stur&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h4stur&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://portfolio.agares.co.uk/" target="_blank"><sub>portfolio.agares.co.uk</sub></a>
 </p>
